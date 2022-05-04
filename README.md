@@ -1,2 +1,2 @@
-# Javascript_Expressions_in_JSX
+# REACT
 Created with CodeSandbox
